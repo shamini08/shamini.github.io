@@ -1,0 +1,17 @@
+#nav{
+    display:block;
+    text-align: center;
+    width: 350px;
+    height: 140px;
+    border-bottom: 1px solid black;
+    border: 1;
+}
+#nav ul{
+    display: inline-block;
+}
+#nav li{
+    display: inline;
+}
+p{
+    text-align: center;
+}
